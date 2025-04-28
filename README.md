@@ -1,3 +1,2 @@
 # Exchange-Companies-Management-System-with-apex
-Illustration of part of the exchange companies management system using Oracle Apex , Oracle DB 19c , PL/SQL.
-These are screenshots of a small part of the project.
+Screenshots of a portion of the exchange company management system using Oracle Apex, Oracle DB 19c, and PL/SQL. These are screenshots of a small portion of the project. A feature has been added to automatically send messages with details of banking transactions to the customer, such as withdrawals, deposits, transfers between accounts, and remittances. A feature has also been added to send balance reconciliation messages to customers.
